@@ -1,1 +1,1 @@
-# Zomato-html
+Zomato app only using HTML
